@@ -1,4 +1,4 @@
-Create your terraform.tfvars at the project root and insert the variables and their values in the file:<br />
+Create your terraform.tfvars at the project root and insert the variables and their values:<br />
 region      = ""<br />
 access_key  = ""<br />
 secret_key  = ""<br />
