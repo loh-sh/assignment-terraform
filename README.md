@@ -1,6 +1,6 @@
-Create your terraform.tfvars at the project root and insert the variables and their values in the file:__
-region      = ""__
-access_key  = ""__
-secret_key  = ""__
-vpc_cidr    = "192.168.0.0/16"__
+Create your terraform.tfvars at the project root and insert the variables and their values in the file:<br />
+region      = ""<br />
+access_key  = ""<br />
+secret_key  = ""<br />
+vpc_cidr    = "192.168.0.0/16"<br />
 bucket_name = ""
